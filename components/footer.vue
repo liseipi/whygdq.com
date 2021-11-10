@@ -5,13 +5,13 @@
         <input type="text" class="key" value="" id="searchWord">
         <input type="submit" class="bt" value="">
       </div>
-      <a href="/index.aspx">首　页&nbsp;&nbsp;|</a>
-      <a href="/content.aspx?node=a1">关于我们&nbsp;&nbsp;|</a>
-      <a href="/content.aspx?node=news">新闻中心&nbsp;&nbsp;|</a>
-      <a href="/content.aspx?node=product">产品中心&nbsp;&nbsp;|</a>
-      <a href="/content.aspx?node=s1">销售服务&nbsp;&nbsp;|</a>
-      <a href="/content.aspx?node=j1">招贤纳士&nbsp;&nbsp;|</a>
-      <a href="/content.aspx?node=c1">联系我们</a>
+      <a href="/">首　页&nbsp;&nbsp;|</a>
+      <a href="/about">关于我们&nbsp;&nbsp;|</a>
+      <a href="/news">新闻中心&nbsp;&nbsp;|</a>
+      <a href="/product">产品中心&nbsp;&nbsp;|</a>
+      <a href="/sale">销售服务&nbsp;&nbsp;|</a>
+      <a href="/talen">招贤纳士&nbsp;&nbsp;|</a>
+      <a href="/content">联系我们</a>
     </div>
     <p style="padding: 15px 0; line-height: 2em;">Copyright 2013 by 武汉仪工电气设备有限公司 【<a target="_blank" href="/admin/login.aspx">后台管理</a>】
       <br>地址：武汉关山街道民院路1号光谷资本大厦3层&nbsp;电话：027-81803685
