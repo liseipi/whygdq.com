@@ -151,6 +151,7 @@ img {
   height: auto;
   margin: 0 auto;
   background: url("@/assets/images/index_02.gif") repeat-y;
+  min-height: 100vh;
 }
 
 .topbar {
@@ -816,6 +817,10 @@ img {
 .bottom_nav .search .bt {
   width: 56px;
   cursor: pointer;
+}
+
+#footer{
+
 }
 
 #footer p {
