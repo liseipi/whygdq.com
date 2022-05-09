@@ -66,7 +66,6 @@
             <ul>
               <li><a href="../page/sale.asp?node=news"> 销售服务</a></li>
               <li><a href="../page/sale.asp?node=news"> 服务体系</a></li>
-              s
             </ul>
           </div>
         </li>
