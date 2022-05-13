@@ -5,7 +5,7 @@
         <div class="fir_protit">
           <div class="protit_text">
             <h3>产品分类 <span>product</span></h3>
-            <p><NLink to="/product"><img src="public/images/index_42.jpg"></NLink></p>
+            <p><NLink to="/product"><img src="@/assets/images/index_42.jpg"></NLink></p>
           </div>
         </div>
         <ul>
