@@ -8,17 +8,17 @@
           </div>
         </div>
         <ul>
-          <li><a href="/content.aspx?node=a1" class="on"> 公司简介</a></li>
-          <li><a href="/content.aspx?node=a2" class=""> 企业文化</a></li>
-          <li><a href="/content.aspx?node=a3" class=""> 企业资质</a></li>
-          <li><a href="/content.aspx?node=a4" class=""> 发展历程</a></li>
-          <li><a href="/content.aspx?node=a5" class=""> 组织结构</a></li>
+          <li><NLink to="/about" class="on"> 公司简介</NLink></li>
+          <li><NLink to="/about" class=""> 企业文化</NLink></li>
+          <li><NLink to="/about" class=""> 企业资质</NLink></li>
+          <li><NLink to="/about" class=""> 发展历程</NLink></li>
+          <li><NLink to="/about" class=""> 组织结构</NLink></li>
         </ul>
       </div>
       <div class="side_all">
         <div class="clear"></div>
         <div class="side_contact">
-          <div class="con_us"> <img src="@/assets/images/index_45.jpg"> <a href="/content.asp">详细请点击</a> </div>
+          <div class="con_us"> <img src="@/assets/images/index_45.jpg"> <NLink to="/contact">详细请点击</NLink> </div>
           <div class="con_add"> <img src="@/assets/images/index_48.gif"> <span>027-81803685</span> <img src="@/assets/images/index_53.jpg">
             <p>武汉关山街道民院路1号光谷资本大厦3层</p>
           </div>
@@ -52,7 +52,3 @@ export default {
   name: "about"
 }
 </script>
-
-<style scoped>
-
-</style>

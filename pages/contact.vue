@@ -8,14 +8,14 @@
           </div>
         </div>
         <ul>
-          <li><a href="/content.aspx?node=c1" class="on"> 联系我们</a></li>
-          <li><a href="/message.aspx">客户留言</a></li>
+          <li><NLink to="/contact" class="on"> 联系我们</NLink></li>
+          <li><NLink to="/contact">客户留言</NLink></li>
         </ul>
       </div>
       <div class="side_all">
         <div class="clear"></div>
         <div class="side_contact">
-          <div class="con_us"> <img src="@/assets/images/index_45.jpg"> <a href="/content.asp">详细请点击</a> </div>
+          <div class="con_us"> <img src="@/assets/images/index_45.jpg"> <NLink to="/contact">详细请点击</NLink> </div>
           <div class="con_add"> <img src="@/assets/images/index_48.gif"> <span>027-81803685</span> <img src="@/assets/images/index_53.jpg">
             <p>武汉关山街道民院路1号光谷资本大厦3层</p>
           </div>
@@ -39,7 +39,7 @@
 							网址：
 							</span>
 						</span>
-          <a href="http://www.whygdq.com"><span style="font-size: medium"><span style="font-family: 宋体">www.whygdq.com</span></span></a><span style="font-size: medium">
+          <NLink to="http://www.whygdq.com"><span style="font-size: medium"><span style="font-family: 宋体">www.whygdq.com</span></span></NLink><span style="font-size: medium">
 						<span style="font-family: 宋体"><br>
 						地址：武汉关山街道民院路1号光谷资本大厦3层<br>
 						邮编：430000<br>

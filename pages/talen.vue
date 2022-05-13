@@ -8,14 +8,14 @@
           </div>
         </div>
         <ul>
-          <li><a href="/content.aspx?node=j1" class="on"> 招贤纳士</a></li>
-          <li><a href="/content.aspx?node=449" class=""> 人才招聘</a></li>
+          <li><NLink to="/talen" class="on"> 招贤纳士</NLink></li>
+          <li><NLink to="/talen" class=""> 人才招聘</NLink></li>
         </ul>
       </div>
       <div class="side_all">
         <div class="clear"></div>
         <div class="side_contact">
-          <div class="con_us"> <img src="@/assets/images/index_45.jpg"> <a href="/content.asp">详细请点击</a> </div>
+          <div class="con_us"> <img src="@/assets/images/index_45.jpg"> <NLink to="/contact">详细请点击</NLink> </div>
           <div class="con_add"> <img src="@/assets/images/index_48.gif"> <span>027-81803685</span> <img src="@/assets/images/index_53.jpg">
             <p>武汉关山街道民院路1号光谷资本大厦3层</p>
           </div>
