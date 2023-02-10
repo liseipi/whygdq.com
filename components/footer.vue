@@ -11,7 +11,7 @@
       <NLink to="/product">产品中心&nbsp;&nbsp;|</NLink>
       <NLink to="/sale">销售服务&nbsp;&nbsp;|</NLink>
       <NLink to="/talen">招贤纳士&nbsp;&nbsp;|</NLink>
-      <NLink to="/content">联系我们</NLink>
+      <NLink to="/contact">联系我们</NLink>
     </div>
     <p style="padding: 15px 0; line-height: 2em;">Copyright 2013 by 武汉仪工电气设备有限公司
       <br>地址：武汉关山街道民院路1号光谷资本大厦3层&nbsp;电话：027-81803685
@@ -24,6 +24,16 @@
       <a target="_blank" href="https://www.whhzdq.cn">电力检测</a>
       <a target="_blank" href="https://www.srne.com.cn">太阳能控制器</a>
     </div>
+    <script>
+      var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?f3e1700416cb2f0dac6ae61af626f55c";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+      })();
+    </script>
+
   </div>
 </template>
 

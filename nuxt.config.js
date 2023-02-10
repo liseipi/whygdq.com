@@ -1,6 +1,6 @@
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
-  ssr: false,
+  ssr: true,
 
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -33,8 +33,8 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
-    {src: '@assets/script/jquery.min'},
-    {src: '@assets/script/swiper.min'},
+    {src: '@assets/script/jquery.min', ssr: false},
+    {src: '@assets/script/swiper.min', ssr: false},
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components

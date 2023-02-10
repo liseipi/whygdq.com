@@ -65,29 +65,29 @@
         <li><NLink to="/news?id=1318"><span>2015-01-19</span>选择试验变压器的几点小心得</NLink></li>
       </ul>
       <div class="page">
-        <a class="prev" href="/contactx?node=news&amp;page1=1">上一页</a>
+        <a class="prev" href="/contact?node=news&amp;page1=1">上一页</a>
 
         <a class="num cur">1</a>
 
-        <a class="num" href="/contactx?node=news&amp;page1=2">2</a>
+        <a class="num" href="/contact?node=news&amp;page1=2">2</a>
 
-        <a class="num" href="/contactx?node=news&amp;page1=3">3</a>
+        <a class="num" href="/contact?node=news&amp;page1=3">3</a>
 
-        <a class="num" href="/contactx?node=news&amp;page1=4">4</a>
+        <a class="num" href="/contact?node=news&amp;page1=4">4</a>
 
-        <a class="num" href="/contactx?node=news&amp;page1=5">5</a>
+        <a class="num" href="/contact?node=news&amp;page1=5">5</a>
 
-        <a class="num" href="/contactx?node=news&amp;page1=6">6</a>
+        <a class="num" href="/contact?node=news&amp;page1=6">6</a>
 
-        <a class="num" href="/contactx?node=news&amp;page1=7">7</a>
+        <a class="num" href="/contact?node=news&amp;page1=7">7</a>
 
-        <a class="num" href="/contactx?node=news&amp;page1=8">8</a>
+        <a class="num" href="/contact?node=news&amp;page1=8">8</a>
 
-        <a class="num" href="/contactx?node=news&amp;page1=9">9</a>
+        <a class="num" href="/contact?node=news&amp;page1=9">9</a>
 
-        <a class="num" href="/contactx?node=news&amp;page1=10">10</a>
+        <a class="num" href="/contact?node=news&amp;page1=10">10</a>
 
-        <a class="next" href="/contactx?node=news&amp;page1=2">下一页</a>
+        <a class="next" href="/contact?node=news&amp;page1=2">下一页</a>
       </div>
     </div>
     <div class="clear"></div>
