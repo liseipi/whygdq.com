@@ -24,16 +24,6 @@
       <a target="_blank" href="https://www.whhzdq.cn">电力检测</a>
       <a target="_blank" href="https://www.srne.com.cn">太阳能控制器</a>
     </div>
-    <script>
-      var _hmt = _hmt || [];
-      (function() {
-        var hm = document.createElement("script");
-        hm.src = "https://hm.baidu.com/hm.js?f3e1700416cb2f0dac6ae61af626f55c";
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(hm, s);
-      })();
-    </script>
-
   </div>
 </template>
 
