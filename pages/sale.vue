@@ -49,6 +49,9 @@
 
 <script>
 export default {
-  name: "sale"
+  name: "sale",
+  head: {
+    titleTemplate: '%s - 销售服务',
+  },
 }
 </script>

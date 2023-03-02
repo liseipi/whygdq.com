@@ -129,7 +129,7 @@
 
 <script>
 export default {
-  name: "header",
+  name: "header-com",
   mounted() {
     $(".nav ul li.n").each(function () {
       $(this).hover(function () {

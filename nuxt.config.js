@@ -5,6 +5,14 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
+  render: {
+    // injectScripts: false,
+    resourceHints: false,
+    static: {
+      maxAge: 1000 * 60 * 60 * 24 * 7
+    }
+  },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: '武汉仪工电气设备有限公司',
@@ -14,7 +22,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'Keywords', name: 'Keywords', content: '武汉仪工、电气、电工、电力、武汉仪工、仪工电气、仪工电力' },
+      { hid: 'Keywords', name: 'Keywords', content: '武汉仪工、电气、电工、电力、武汉仪工、仪工电气、仪工电力、武汉仪工电气设备有限公司' },
       { hid: 'description', name: 'description', content: '武汉仪工仪工电气是一家专门为电力系统用户提供全套在线监测解决方案以及运维检修技术服务的股份制科技企业。所提供的产品和服务已经覆盖发电、输电、变电、配电等领域，并逐步发展成为，以智能在线监测系统集成、电气设备运维检修技术服务为主体，以自主品牌产品研发和生产为发展创新的高新技术企业。' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
@@ -59,6 +67,8 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+    extractCSS: true,
+    cssSourceMap: false,
     filenames: {
       app: ({ isDev }) => isDev ? '[name].js' : '[name].js',
       chunk: ({ isDev }) => isDev ? '[name].js' : '[name].js',

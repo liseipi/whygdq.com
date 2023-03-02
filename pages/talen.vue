@@ -44,6 +44,9 @@
 
 <script>
 export default {
-  name: "talen"
+  name: "talen",
+  head: {
+    titleTemplate: '%s - 人才招聘',
+  },
 }
 </script>

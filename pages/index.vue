@@ -56,7 +56,11 @@
 </template>
 
 <script>
-export default {}
+export default {
+  head: {
+    titleTemplate: '%s',
+  }
+}
 </script>
 
 <style scoped>

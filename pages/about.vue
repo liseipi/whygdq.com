@@ -49,6 +49,9 @@
 
 <script>
 export default {
-  name: "about"
+  name: "about",
+  head: {
+    titleTemplate: '%s - 关于武汉仪工',
+  },
 }
 </script>

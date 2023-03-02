@@ -1184,6 +1184,9 @@
 
 <script>
 export default {
-  name: "product"
+  name: "product",
+  head: {
+    titleTemplate: '%s - 产品中心',
+  },
 }
 </script>

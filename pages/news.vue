@@ -100,6 +100,9 @@
 
 <script>
 export default {
-  name: "news"
+  name: "news",
+  head: {
+    titleTemplate: '%s - 新闻中心',
+  },
 }
 </script>

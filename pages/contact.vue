@@ -60,6 +60,9 @@
 
 <script>
 export default {
-  name: "contact"
+  name: "contact",
+  head: {
+    titleTemplate: '%s - 联系我们',
+  },
 }
 </script>
