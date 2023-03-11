@@ -5,6 +5,12 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
+  server: {
+    port: 3001,
+    host: 'localhost',
+    timing: false
+  },
+
   render: {
     // injectScripts: false,
     resourceHints: false,
