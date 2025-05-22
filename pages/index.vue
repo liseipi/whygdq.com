@@ -25,7 +25,7 @@
           </div>
         </div>
         <div class="abimgcont"><img src="@/assets/images/img_03.jpg" width="242" height="50"></div>
-        <p>武汉仪工电气设备有限公司公司于2002年成立至今已经有十二年的时间，是一家专业致力于生产和销售各类电力检测、试验设备的高新技术企业。</p>
+        <p>武汉仪工电气设备有限公司公司于2002年成立至今已经有十二年的时间，是一家专业致力于生产和销售各类电力检测、试验设备的公司。</p>
       </div>
       <div class="fir_new">
         <div class="fir_newtit">

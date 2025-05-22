@@ -36,7 +36,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: '武汉仪工电气设备有限公司(网址：https://www.whelectric.com.cn)是一家专门为电力系统用户提供全套在线监测解决方案以及运维检修技术服务的股份制科技企业。所提供的产品和服务已经覆盖发电、输电、变电、配电等领域，并逐步发展成为，以智能在线监测系统集成、电气设备运维检修技术服务为主体，以自主品牌产品研发和生产为发展创新的高新技术企业。'
+        content: '武汉仪工电气设备有限公司(网址：https://www.whelectric.com.cn)是一家专门为电力系统用户提供全套在线监测解决方案以及运维检修技术服务的股份制科技企业。所提供的产品和服务已经覆盖发电、输电、变电、配电等领域，并逐步发展成为，以智能在线监测系统集成、电气设备运维检修技术服务为主体，以自主品牌产品研发和生产为发展创新的公司。'
       },
       {name: 'format-detection', content: 'telephone=no'},
       {name: 'baidu-site-verification', content: 'codeva-8kPnZmBWPZ'}
